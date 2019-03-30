@@ -1,4 +1,4 @@
 def reverse_each_word(string)
-  new_string = string.split.reverse
-  new_string
+  array = string.split
+  array.reverse
 end
